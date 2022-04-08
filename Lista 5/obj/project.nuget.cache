@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQmmcGi3c2xUzMIxTlqSm6OxMXlgGquIbthJDB+vKlXCFxLuY6Go2dDhOZyDhcI0uLcOdg7q4sOaGwXtZUusFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleaz\\Documents\\1-FATEC-3oPeriodo\\POO\\Ruan\\Exercicio-POO_Lista_5-main\\Lista 5\\Lista 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\eleaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eleaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eleaz\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
